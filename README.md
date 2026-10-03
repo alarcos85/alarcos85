@@ -31,7 +31,7 @@ always authorized.
   authorization
 - 🧪 **Minimal PoC** — the smallest safe proof of impact, nothing more
 - 🤝 **Responsible disclosure** — private report to the owner first, public
-  only after a fix or an agreed timeline
+  only after a fix.
 - ✅ **Evidence over assumptions** — I'd rather send one verified finding than
   ten maybes
 
