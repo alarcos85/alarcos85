@@ -59,6 +59,7 @@ always authorized.
 
 ![OWASP WSTG](https://img.shields.io/badge/OWASP_WSTG-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![OWASP MASVS](https://img.shields.io/badge/OWASP_MASVS_/_MASTG-1F6FEB?style=for-the-badge&logo=owasp&logoColor=white)
+![CVSS](https://img.shields.io/badge/CVSS_4.0-C0392B?style=for-the-badge)
 ![CVSS](https://img.shields.io/badge/CVSS_3.1-C0392B?style=for-the-badge)
 ![CWE](https://img.shields.io/badge/CWE-6A1B9A?style=for-the-badge)
 
