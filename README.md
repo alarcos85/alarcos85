@@ -55,4 +55,4 @@ found them.
 
 ## 📫 Say hi
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn](https://es.linkedin.com/in/carlos-alarcos-mac%C3%ADas-661285163)
