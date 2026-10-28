@@ -17,6 +17,7 @@ always authorized.
 - 🔌 **API security testing** — object-level authorization and data exposure
 - 📦 **Open-source vulnerability research** — responsible reporting to
   maintainers and CVE coordination via GitHub Security Advisories
+  (2 CVEs published)
 - 📝 **Technical reporting** — clear, reproducible findings with CVSS 4.0 and
   OWASP WSTG classification
 - 📱 **Mobile security (Android / iOS)** — currently learning, following
@@ -77,17 +78,16 @@ always authorized.
 
 ---
 
-## 🏆 Recent research
+## 🏆 Published vulnerabilities
 
-<!-- Uncomment once published:
-| CVE | Project | Weakness | Severity |
-|-----|---------|----------|----------|
-| [CVE-XXXX-XXXXX](URL) | FOSSBilling | CWE-639 (IDOR) | CVSS 7.1 (High) |
-| [CVE-XXXX-XXXXX](URL) | FOSSBilling | CWE-639 (IDOR) | CVSS 8.2 (High) |
--->
+Credited findings from coordinated disclosure with open-source maintainers.
 
-Two reports to FOSSBilling have been accepted by the maintainers and are
-pending public disclosure. I'll link them here once they're out.
+**[FOSSBilling](https://github.com/FOSSBilling/FOSSBilling)** — open-source billing and client management platform · fixed in `0.8.8`
+
+| CVE | Vulnerability | Weakness | Severity |
+|-----|---------------|----------|----------|
+| [CVE-2026-111051](https://github.com/FOSSBilling/FOSSBilling/security/advisories/GHSA-8qj7-53mp-qgxv) | Stripe one-time payments can credit another client's invoice | CWE-639 (IDOR) | ![CVSS 8.2 High](https://img.shields.io/badge/CVSS_4.0-8.2_High-E67E22?style=flat-square) |
+| [CVE-2026-111050](https://github.com/FOSSBilling/FOSSBilling/security/advisories/GHSA-6h67-77vv-rhx8) | PayPal Email adapter lets a client credit payments to another client's invoice | CWE-639 (IDOR) | ![CVSS 7.1 High](https://img.shields.io/badge/CVSS_4.0-7.1_High-E67E22?style=flat-square) |
 
 ## 🛡️ Ethics
 
@@ -98,3 +98,4 @@ found them.
 ## 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/carlos-alarcos-mac%C3%ADas-661285163)
+
