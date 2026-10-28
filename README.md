@@ -7,6 +7,10 @@ bad intentions finds the same bugs. My work is hands-on, methodical and
 always authorized.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/carlos-alarcos-mac%C3%ADas-661285163)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alarcos85@gmail.com)
+[![eJPT](https://img.shields.io/badge/eJPT-Certified-2E7D32?style=for-the-badge)](https://certs.ine.com/734d79d7-adcd-449f-b658-67f6fbae5f95#acc.xikNz7Hn)
+[![eWPT](https://img.shields.io/badge/eWPT-Certified-2E7D32?style=for-the-badge)](https://certs.ine.com/cf06499c-d3b0-436b-8aed-26f6f394e20d#acc.ETMLecgy)
+![CVEs](https://img.shields.io/badge/CVEs-2_published-E67E22?style=for-the-badge)
 
 ---
 
@@ -38,23 +42,69 @@ always authorized.
 
 ---
 
+## 🎓 Certifications & education
+
+| | Credential | Issuer | Status |
+|---|------------|--------|--------|
+| ✅ | **eWPT** — Web Application Penetration Tester | INE Security | [Verify ↗](https://certs.ine.com/cf06499c-d3b0-436b-8aed-26f6f394e20d#acc.ETMLecgy) |
+| ✅ | **eJPT** — Junior Penetration Tester | INE Security | [Verify ↗](https://certs.ine.com/734d79d7-adcd-449f-b658-67f6fbae5f95#acc.xikNz7Hn) |
+| ⏳ | **eMAPT** — Mobile Application Penetration Tester | INE Security | In preparation |
+| ⏳ | **ASIR** — Higher Vocational Degree in Network Systems Administration | Spain | Final year · 2027 |
+
+---
+
 ## 🛠️ Skills
 
 ### 🧰 Security tools
 
-**Web & network**
+**Web & API**
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Autorize](https://img.shields.io/badge/Autorize-FF6633?style=for-the-badge)
+![Logger++](https://img.shields.io/badge/Logger++-FF6633?style=for-the-badge)
+![Caido](https://img.shields.io/badge/Caido-6C3FE0?style=for-the-badge)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SoapUI](https://img.shields.io/badge/SoapUI-85BC22?style=for-the-badge)
+![jwt_tool](https://img.shields.io/badge/jwt__tool-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![DevTools](https://img.shields.io/badge/Browser_DevTools-4285F4?style=for-the-badge)
+
+**Recon, discovery & fuzzing**
+
+![Subfinder](https://img.shields.io/badge/Subfinder-1E88E5?style=for-the-badge)
+![ffuf](https://img.shields.io/badge/ffuf-37474F?style=for-the-badge)
+![Gobuster](https://img.shields.io/badge/Gobuster-00ADD8?style=for-the-badge)
+![Dirsearch](https://img.shields.io/badge/Dirsearch-546E7A?style=for-the-badge)
+![Wfuzz](https://img.shields.io/badge/Wfuzz-5D4037?style=for-the-badge)
 ![Nuclei](https://img.shields.io/badge/Nuclei-1E88E5?style=for-the-badge)
+![Nikto](https://img.shields.io/badge/Nikto-424242?style=for-the-badge)
+![sqlmap](https://img.shields.io/badge/sqlmap-B71C1C?style=for-the-badge)
+
+**Network & infrastructure**
+
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge)
 ![Nessus](https://img.shields.io/badge/Nessus-00C1DE?style=for-the-badge&logo=tenable&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-**Mobile**
+**Mobile & reversing**
 
 ![Frida](https://img.shields.io/badge/Frida-B22222?style=for-the-badge)
-![adb](https://img.shields.io/badge/adb-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![objection](https://img.shields.io/badge/objection-8E24AA?style=for-the-badge)
+![Drozer](https://img.shields.io/badge/Drozer-C62828?style=for-the-badge&logo=android&logoColor=white)
+![jadx](https://img.shields.io/badge/jadx-455A64?style=for-the-badge)
 ![apktool](https://img.shields.io/badge/apktool-2E7D32?style=for-the-badge&logo=android&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-CC0000?style=for-the-badge)
+![MobSF](https://img.shields.io/badge/MobSF-0D47A1?style=for-the-badge)
+![adb](https://img.shields.io/badge/adb-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### ⚙️ Scripting & automation
+
+Small scripts to automate repetitive testing tasks.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
 
 ### 📚 Security methodologies
 
@@ -97,5 +147,8 @@ found them.
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/carlos-alarcos-mac%C3%ADas-661285163)
+Open to conversations about web and API security, pentesting roles and
+vulnerability research.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/carlos-alarcos-mac%C3%ADas-661285163)
+[![Email](https://img.shields.io/badge/alarcos85@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alarcos85@gmail.com)
