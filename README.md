@@ -60,13 +60,9 @@ always authorized.
 **Web & API**
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Autorize](https://img.shields.io/badge/Autorize-FF6633?style=for-the-badge)
-![Logger++](https://img.shields.io/badge/Logger++-FF6633?style=for-the-badge)
-![Caido](https://img.shields.io/badge/Caido-6C3FE0?style=for-the-badge)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SoapUI](https://img.shields.io/badge/SoapUI-85BC22?style=for-the-badge)
-![jwt_tool](https://img.shields.io/badge/jwt__tool-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![DevTools](https://img.shields.io/badge/Browser_DevTools-4285F4?style=for-the-badge)
 
 **Recon, discovery & fuzzing**
